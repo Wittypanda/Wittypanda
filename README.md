@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wittypanda
-- 👀 I’m interested in Cybersecurity 
+- 👀 I’m interested in Data Science and analytics
 - 🌱 I’m currently learning Computer Science & Engineering ( Data Science )
 - 💞️ I’m looking to collaborate on Data Science ( Analytical programing ) 
 - 📫 How to reach me adimjoshi@gamil.com
