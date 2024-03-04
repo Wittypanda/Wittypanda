@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Aditya Joshi
-- 👀 I’m interested in Data Science and analytics
-- 🌱 I’m currently learning Computer Science & Engineering ( Data Science )
-- 🤝 I’m looking to collaborate on Data Science ( Analytical programing ) 
-- 📫 How to reach me adimjoshi@gmail.com
+# Hi there! 👋 I'm Aditya Joshi 🚀
 
-<!---
-Wittypanda/Wittypanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me 💼
+I'm a coding aficionado with a knack for crafting cool stuff with Python, Java, and more! When I'm not diving into code, you'll find me exploring the latest trends in machine learning, tinkering with data, or brainstorming my next big project. Let's code something awesome together! 💻
+
+## Tech Stack 🛠️
+- Languages: Python, Java, C/C++, JavaScript, R Lang, SQL
+- Technologies: React.js, Django, Flask, TensorFlow, PyTorch, Sklearn, Bootstrap, Node.js, MySQL, PostgreSQL, MongoDB
+- Tools: Git, GitHub, DigitalOcean, AWS, GCP, Nginx
+
+## Projects 🚀
+### Multiclass Mood Classification of Music
+- Developed a groovy mood classifier using Python, Keras, and TensorFlow, achieving a smashing accuracy of 92% 🎶
+- Built an interactive dashboard to visualize music moods with Matplotlib and Seaborn 📊
+
+### COVID-19 Data Visualization Dashboard
+- Crafted a dynamic COVID-19 dashboard using Python, Flask, and Plotly for real-time updates 📈
+- Implemented data scraping for accurate insights and utilized Bootstrap for slick UI/UX 💡
+
+## Experience 💼
+- **Business Analysis Intern** at Accelerate Controls Pvt Ltd
+- **Data Science Intern** at Oasis InfoByte
+
+## Education 🎓
+- Bachelor of Engineering in Computer Science and Engineering (Data Science) with a stellar GPA of 8.43/10 🎓
+- Certified coding ninja and blockchain enthusiast 🌟
+
+## Let's Connect! 🤝
+Feel free to reach out if you want to chat about coding, tech, or the latest memes! Let's build something awesome together! 🚀
