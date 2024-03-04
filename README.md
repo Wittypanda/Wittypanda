@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Aditya Joshi 🚀
 
 ## About Me 💼
-I'm a coding aficionado with a knack for crafting cool stuff with Python, Java, and more! When I'm not diving into code, you'll find me exploring the latest trends in machine learning, tinkering with data, or brainstorming my next big project. Let's code something awesome together! 💻
+I'm a coding aficionado with a knack for crafting cool stuff with Python, Java, and more! When I'm not diving into code, you'll find me exploring the latest trends in machine learning, tinkering with data, brainstorming my next big project or writitng bone tickling content 🌝. Let's code something awesome together! 💻
 
 ## Tech Stack 🛠️
 - Languages: Python, Java, C/C++, JavaScript, R Lang, SQL
-- Technologies: React.js, Django, Flask, TensorFlow, PyTorch, Sklearn, Bootstrap, Node.js, MySQL, PostgreSQL, MongoDB
-- Tools: Git, GitHub, DigitalOcean, AWS, GCP, Nginx
+- Technologies: React.js, Django, Flask, TensorFlow, PyTorch, Sklearn, Bootstrap, Node.js, MySQL, PostgreSQL, MongoDB, Linux
+- Tools: Git, GitHub, DigitalOcean, AWS, GCP, Nginx, Google Suite, Ms Suite, Tableau, Power BI
 
 ## Projects 🚀
 ### Multiclass Mood Classification of Music
@@ -23,7 +23,7 @@ I'm a coding aficionado with a knack for crafting cool stuff with Python, Java, 
 
 ## Education 🎓
 - Bachelor of Engineering in Computer Science and Engineering (Data Science) with a stellar GPA of 8.43/10 🎓
-- Certified coding ninja and blockchain enthusiast 🌟
+- VCET, MH
 
 ## Let's Connect! 🤝
 Feel free to reach out if you want to chat about coding, tech, or the latest memes! Let's build something awesome together! 🚀
