@@ -49,7 +49,5 @@ I am a proficient software engineer based in Mumbai, India, with a strong backgr
 - **Extra-Curricular:** Recognized for leadership and communication skills in public speaking contests. Orchestrated promotional initiatives as Deputy Publicity Head at E-Cell VCET.
 - **Co-Curricular:** Competed in hackathons like Google Hashcode, KJSE Codeoddesy, and VCET Hackathon. Earned certifications in Blockchain fundamentals and SEO optimization on Coursera.
 
-## GitHub Analytics 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wittypanda&show_icons=true&theme=radical)
+## Profile Analytics 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wittypanda&layout=compact&theme=radical)
